@@ -12,5 +12,6 @@
     "curso"
   ],
   "author": "Edder Hernandez <edhernandezfo@unal.edu.co>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
